@@ -4,12 +4,13 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDTLW9RxlmqkmIqSktIXDYlXtuQllGl0bE",
-  authDomain: "nextjs-firebase-auth-75c3c.firebaseapp.com",
-  projectId: "nextjs-firebase-auth-75c3c",
-  storageBucket: "nextjs-firebase-auth-75c3c.appspot.com",
-  messagingSenderId: "981937760122",
-  appId: "1:981937760122:web:d725915dea8b1e089f18c3",
+  apiKey: "AIzaSyCr2xqyQYlLZoR0CH7UaGXhC9FBx8lb1-s",
+  authDomain: "walili-705dc.firebaseapp.com",
+  projectId: "walili-705dc",
+  storageBucket: "walili-705dc.appspot.com",
+  messagingSenderId: "1022029947592",
+  appId: "1:1022029947592:web:83700098b86a3b62373bfd",
+  measurementId: "G-D7Z5FJ4T7N"
 };
 
 // Initialize Firebase
